@@ -1,4 +1,4 @@
-A script that sets time to Android device.
+A script that sets date to Android device.
 
 NOTICE:
 This script can be executed with the device that can launch its shell on
